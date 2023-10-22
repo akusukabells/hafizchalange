@@ -2,6 +2,7 @@
 session_start();
 if (!isset($_SESSION["nis"]))
     header("Location:../index.php");
+    //test
 ?>
 <!DOCTYPE html>
 <html lang="en">

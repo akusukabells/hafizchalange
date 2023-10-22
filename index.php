@@ -8,6 +8,9 @@ if (!empty($_SESSION['nis'])) {
         header("location: student/dashboard.php");
     }
 }
+
+
+//test masuk gk updatenya?
 ?>
 <!DOCTYPE html>
 <html lang="en">
